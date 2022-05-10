@@ -1,0 +1,67 @@
+/* header */
+body{
+    margin: 0%;
+}
+section.first{
+    display: flex;
+    background-image: url(/Image/image01.jpg);
+    border: 1px solid;
+    border-color: azure;
+}
+div img{
+height: 80px;
+width: 70px;
+padding: 13px;
+margin-left: 1%;
+}
+.logo1{
+    font-family: cursive;
+    color: rgb(39, 49, 49);
+    font-size: 3rem;
+}
+img{
+    height: 100px;
+    width: 200px;
+    margin: -5%;
+}
+
+/* for secong section */
+section.second{
+    display: flex;
+    background-color: rgb(135, 122, 148);
+    height: 3rem;
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.second div{
+margin-top: 1rem;
+margin-left: 1rem;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: 900;
+text-decoration: none;
+
+}
+section.second div :hover{
+color: aliceblue;
+background-color: rgb(171, 161, 189);
+padding: .3rem;
+border-radius: 1rem;
+
+}
+
+
+                /* section third */
+
+.third{
+    display: flex;
+}           
+form.form2{
+    
+}     
+form div{
+    padding: 5%;
+}
+div input{
+    margin-left:30px ;
+}
